@@ -1,0 +1,55 @@
+{
+  "name": "Saved Messages",
+  "type": "saved_messages",
+  "id": 1000000001,
+  "messages": [
+    {
+      "id": 101,
+      "type": "message",
+      "date": "2026-11-03T22:14:05",
+      "from": "kestrel",
+      "text": "#idea cli для конвертации экспорта телеги в markdown, по файлу на день"
+    },
+    {
+      "id": 102,
+      "type": "message",
+      "date": "2026-11-03T23:40:51",
+      "from": "kestrel",
+      "text": "проверить, почему pg_dump на стенде отваливается по таймауту"
+    },
+    {
+      "id": 103,
+      "type": "service",
+      "date": "2026-11-04T09:02:11",
+      "actor": "kestrel",
+      "action": "pin_message",
+      "text": ""
+    },
+    {
+      "id": 104,
+      "type": "message",
+      "date": "2026-11-05T00:12:33",
+      "from": "kestrel",
+      "text": [
+        "почитать про ",
+        {"type": "bold", "text": "structured logging"},
+        " в python: ",
+        {"type": "link", "text": "https://docs.python.org/3/howto/logging-cookbook.html"}
+      ]
+    },
+    {
+      "id": 105,
+      "type": "message",
+      "date": "2026-11-05T22:47:19",
+      "from": "kestrel",
+      "text": "#idea фильтр по тегам, чтобы выгружать только идеи"
+    },
+    {
+      "id": 106,
+      "type": "message",
+      "date": "2026-11-07T01:05:40",
+      "from": "kestrel",
+      "text": "купить кофе в зернах, закончился"
+    }
+  ]
+}
